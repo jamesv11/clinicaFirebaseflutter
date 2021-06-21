@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "463307562694",
+    "project_id": "clinicabuendoctorfirebase",
+    "storage_bucket": "clinicabuendoctorfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463307562694:android:d06ad203d0e91e8c4081c7",
+        "android_client_info": {
+          "package_name": "com.gooddoctor.parcialclinicafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463307562694-hp24nuh4dt5sbc2tg8nmq5cde6u673pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKmH6F287GXxZskydqK0sigySMmWvxsD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463307562694-hp24nuh4dt5sbc2tg8nmq5cde6u673pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
